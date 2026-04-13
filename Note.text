@@ -1,0 +1,30 @@
+CSS full form is Cascading Style Sheet
+
+It is a language that is used to describe the style of a document 
+
+Basic syntax
+
+selector   <--- h1{
+    color:red;
+}     |     |
+  property value
+
+
+Including style
+
+Inline 
+ <h1 style ="color:red">Alok</h1>
+
+Second case for color
+<style>tag
+
+   <style>
+       h1{
+        color : red;
+       }
+   </style>
+
+External Stylesheet
+
+Writing CSS in a separate document & linking it with HTML file
+
