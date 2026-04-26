@@ -1,0 +1,16 @@
+*{
+    font-family: Times New Roman ;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#container{
+    font-size: 25px;
+
+}
+
+#box{
+    font-size:10px;
+}

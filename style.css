@@ -30,6 +30,8 @@ a{
 
 #twenty{
     font-family: Arial;
+    line-height: normal;
+    text-transform: uppercase; /* uppercase, lowercase, capitalize, none */
 }
 
 #thirty{
