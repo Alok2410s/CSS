@@ -239,3 +239,11 @@ Q1 Create a div with height & width of 100px
     Set its background color to green & the border radius to 50%
 
 Q2 create the following navbar
+
+Display property
+
+inline       - takes only the space required by the element. (no margin/padding) like button 
+block        - takes full space available in width like div 
+inline-block - Similar to inline but can set margin & padding.
+none         - to remove element from document flow.
+

@@ -1,14 +1,16 @@
 div{
     height: 200px;
-    width: 100px;
+    width: 200px;
     background-color: lightblue;
-    border-width: 2px;
+    border-width: 1px;
     border-color: black;
+    text-align:  centre;
     border-style: solid;
+    display:inline-block;
 }
 
 h1{
-    height:52px;
+    height:200px;
     width: 200px;
     background-color: lightgreen;
     border-width: 2px;
