@@ -6,7 +6,6 @@ div{
     text-align:  centre;
     border-style: solid;
     display:inline-block;
-    background-color: rgba(255,0,0,0.56)
 }
 
 h1{
@@ -24,5 +23,14 @@ h1{
 }
 
 #box2{
-    display: none;
+    /* display: none; */
+    background-color: rgba(255,0,0,0.66)
+}
+
+#box1{
+    background-color: rgba(255,0,0,0.56)
+}
+
+#box3{
+    background-color: rgba(0,0,255,0.56)
 }
