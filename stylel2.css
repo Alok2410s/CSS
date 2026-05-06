@@ -1,12 +1,12 @@
 div{
     height: 200px;
     width: 200px;
-    background-color: lightblue;
     border-width: 1px;
     border-color: black;
     text-align:  centre;
     border-style: solid;
     display:inline-block;
+    background-color: rgba(255,0,0,0.56)
 }
 
 h1{
@@ -21,4 +21,8 @@ h1{
     padding: 1px 2px 3px 4px;
     margin-top:50px;
     
+}
+
+#box2{
+    display: none;
 }
